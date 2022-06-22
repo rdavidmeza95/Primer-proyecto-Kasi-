@@ -1,0 +1,25 @@
+nav{
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    min-height:10vh;
+    background-color: #ffffff;
+    position: fixed;
+    width: 100%;
+    top:0;
+    
+}
+/*Color a login del nav bar*/
+#login{
+    color:#930112;
+}
+    /*aqui le pusimos color al link de instagram*/
+.logo-name{
+     color:#280290;
+}
+.logo-name:hover{
+    color:#232323;
+    text-decoration: none;
+}
+
+
